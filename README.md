@@ -4,7 +4,7 @@ Information Systems graduate focused on cloud computing, IT automation, business
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salem%20Balobaid-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/salim-balobaid-)
 [![Email](https://img.shields.io/badge/Email-salim.balobaid1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:salim.balobaid1@gmail.com)
-[![CV](https://img.shields.io/badge/CV-View%20My%20Resume-2563EB?style=flat-square)](./cv/Salem_Balobaid_CV.pdf)
+[![CV](https://img.shields.io/badge/CV-View%20My%20Resume-2563EB?style=flat-square)](./Salem_Balobaid_CV.pdf)
 
 ## About Me
 
